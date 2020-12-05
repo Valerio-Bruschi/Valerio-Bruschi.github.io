@@ -32,8 +32,8 @@ assets/js/jquery.min.js
 assets/js/layout.js
 assets/js/layout.min.js
 assets/js/smoothscroll.js
-assets/pdf/CV-Valerio_Bruschi_18_web.pdf
-assets/pdf/CV-Valerio_Bruschi_19_web.pdf
+assets/pdf/CV-Valerio_Bruschi_20_web.pdf
+assets/pdf/DISCO_poster_conext20.pdf
 assets/pdf/OPP_VBruschi.pdf
 assets/pdf/eNOSE_presentation_end.pdf
 assets/pdf/eNOSE_presentation_end.zip
