@@ -1,1 +1,3 @@
 index.html
+assets
+assets/*
